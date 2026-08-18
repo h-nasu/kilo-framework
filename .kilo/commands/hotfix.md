@@ -1,6 +1,6 @@
 ---
 description: Respond to critical production issues
-agent: code
+agent: debugger
 ---
 This workflow guides the process of responding to critical issues in production.
 

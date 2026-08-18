@@ -1,6 +1,6 @@
 ---
 description: Diagnose and fix bugs
-agent: code
+agent: debugger
 ---
 This workflow guides the process of diagnosing and fixing bugs.
 
